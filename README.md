@@ -69,7 +69,11 @@ CPCB – Extended Producer Responsibility (EPR) Certificate Framework
 Digital India – Digital & Inclusive Infrastructure Initiatives
 
 ## Author
+
 Aditya Kumar Yadav
+
 GitHub: github.com/aditya2311002
+
 LinkedIn: https://www.linkedin.com/in/aditya-kumar-yadav-966329370?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 Created for the MY Bharat Hack for Social Cause initiative.
