@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##   Tech Stack
 
 | Domain | Technology / Tool |
 | :--- | :--- |
@@ -46,7 +46,7 @@
 ├── assets/               # Visual icons, category imagery, & graphics
 ├── README.md             # Project documentation & overview
 └── LICENSE               # Open-source license terms
-text```
+```
 
 ##.Local Development Setup
 1.
