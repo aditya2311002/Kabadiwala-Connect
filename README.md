@@ -49,8 +49,6 @@
 └── next.config.mjs       # Next.js configuration
 ```
 
-```
-
 ##.Local Development Setup
 1.
 bash:
