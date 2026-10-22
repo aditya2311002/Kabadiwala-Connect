@@ -72,7 +72,7 @@ Digital India – Digital & Inclusive Infrastructure Initiatives
 
 Aditya Kumar Yadav
 
-GitHub: github.com/aditya2311002
+GitHub: https://github.com/aditya2311002
 
 LinkedIn: https://www.linkedin.com/in/aditya-kumar-yadav-966329370?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
