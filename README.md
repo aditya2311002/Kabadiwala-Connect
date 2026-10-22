@@ -40,12 +40,15 @@
 ##  Repository Structure
 
 ```text
-├── index.html            # Main web application dashboard
-├── css/                  # Styling & Tailwind configurations
-├── js/                   # Core application logic & speech engines
-├── assets/               # Visual icons, category imagery, & graphics
-├── README.md             # Project documentation & overview
-└── LICENSE               # Open-source license terms
+├── app/                  # Next.js App Router pages & API routes
+├── components/           # Reusable UI components
+├── lib/                  # Utility functions & helpers
+├── public/               # Static assets (images, icons)
+├── package.json          # Project dependencies & scripts
+├── README.md             # Project documentation
+└── next.config.mjs       # Next.js configuration
+```
+
 ```
 
 ##.Local Development Setup
